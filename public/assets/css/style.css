@@ -170,9 +170,6 @@ body {
     gap: 30px;
 }
 
-.content-section {
-    /* Removed background and padding - blends with parent */
-}
 
 .list-item {
     font-family: 'Open Sans', sans-serif;
